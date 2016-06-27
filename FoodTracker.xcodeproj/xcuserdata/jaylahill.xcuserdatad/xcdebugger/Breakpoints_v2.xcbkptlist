@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodTrackerTests/FoodTrackerTests.swift"
+            timestampString = "487093800.736588"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodTrackerTests.FoodTrackerTests.__deallocating_deinit"
+                  moduleName = "FoodTrackerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaylahill/Documents/FoodTracker/FoodTrackerTests/FoodTrackerTests.swift"
+                  timestampString = "487093814.229244"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodTrackerTests.FoodTrackerTests.init (invocation : Swift.Optional&lt;__ObjC.NSInvocation&gt;) -&gt; FoodTrackerTests.FoodTrackerTests"
+                  moduleName = "FoodTrackerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaylahill/Documents/FoodTracker/FoodTrackerTests/FoodTrackerTests.swift"
+                  timestampString = "487093814.238027"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodTrackerTests.FoodTrackerTests.init (selector : ObjectiveC.Selector) -&gt; FoodTrackerTests.FoodTrackerTests"
+                  moduleName = "FoodTrackerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaylahill/Documents/FoodTracker/FoodTrackerTests/FoodTrackerTests.swift"
+                  timestampString = "487093814.238969"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodTrackerTests.FoodTrackerTests.init () -&gt; FoodTrackerTests.FoodTrackerTests"
+                  moduleName = "FoodTrackerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaylahill/Documents/FoodTracker/FoodTrackerTests/FoodTrackerTests.swift"
+                  timestampString = "487093814.239538"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "53">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodTrackerTests/FoodTrackerTests.swift"
+            timestampString = "487093811.250333"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "FoodTrackerTests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodTrackerTests.FoodTrackerTests.__deallocating_deinit"
+                  moduleName = "FoodTrackerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaylahill/Documents/FoodTracker/FoodTrackerTests/FoodTrackerTests.swift"
+                  timestampString = "487093814.241121"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodTrackerTests.FoodTrackerTests.init (invocation : Swift.Optional&lt;__ObjC.NSInvocation&gt;) -&gt; FoodTrackerTests.FoodTrackerTests"
+                  moduleName = "FoodTrackerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaylahill/Documents/FoodTracker/FoodTrackerTests/FoodTrackerTests.swift"
+                  timestampString = "487093814.241408"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodTrackerTests.FoodTrackerTests.init (selector : ObjectiveC.Selector) -&gt; FoodTrackerTests.FoodTrackerTests"
+                  moduleName = "FoodTrackerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaylahill/Documents/FoodTracker/FoodTrackerTests/FoodTrackerTests.swift"
+                  timestampString = "487093814.241689"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodTrackerTests.FoodTrackerTests.init () -&gt; FoodTrackerTests.FoodTrackerTests"
+                  moduleName = "FoodTrackerTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaylahill/Documents/FoodTracker/FoodTrackerTests/FoodTrackerTests.swift"
+                  timestampString = "487093814.24193"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "53">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
