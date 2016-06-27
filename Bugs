@@ -1,0 +1,2 @@
+Bug 0001: Using a splash screen scales up the table view navigation controller, and it does not use the native resolution
+- Possible solution: Use the image as the entry point on the main navigation controller on the story board
