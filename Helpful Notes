@@ -1,3 +1,6 @@
 http://krakendev.io/blog/4-xcode-asset-catalog-secrets-you-need-to-know
 - Notes on image catalogs for the future
 
+Notes on splash screens:
+- The app is not yet loaded so the view hierarchy does not exist and the system can not call any custom view controller setup code you may have in the app (e.g. viewDidLoad)
+
